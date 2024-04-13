@@ -1,5 +1,5 @@
 numpy==1.22.0
-scipy==1.8.1
+scipy==1.10.0
 scikit_image==0.19.3
 tqdm==4.50.2
 xmltodict==0.12.0
